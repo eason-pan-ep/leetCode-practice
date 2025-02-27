@@ -5,3 +5,6 @@
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Array, Set
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
 
+## Medium
+- [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
+
