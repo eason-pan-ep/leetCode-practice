@@ -14,4 +14,4 @@ This repository contains my solutions to LeetCode problems.
 - [By Company](indexes/by_company.md)
 
 ## Usage
-To generate index files:
+To generate index files: run `make index`
