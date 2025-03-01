@@ -7,4 +7,5 @@
 
 ## Medium
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
+- [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
 
