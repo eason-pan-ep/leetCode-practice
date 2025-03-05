@@ -9,14 +9,16 @@ URL: https://leetcode.com/problems/encode-and-decode-strings/
 from typing import List
 
 class Codec:
+    def __init__(self):
+        self.delimiter = "[#]"
+    
     def encode(self, strs: List[str]) -> str:
         """Encodes a list of strings to a single string.
         """
         if not strs:
             return ""
         
-        delimiter = "[#]"
-        output_str = delimiter.join(str_item for str_item in strs)
+        output_str = self.delimiter.join(str_item for str_item in strs)
         return output_str
 
         
@@ -27,8 +29,7 @@ class Codec:
         if not s:
             return [""]
         
-        delimiter = "[#]"
-        output_list = s.split(delimiter)
+        output_list = s.split(self.delimiter)
         return output_list
         
 
