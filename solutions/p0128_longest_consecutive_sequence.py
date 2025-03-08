@@ -10,6 +10,30 @@ from typing import List
 import copy
 
 class Solution:
+    def longest_consecutive_solution_2(self, nums: List[int]) -> int:
+        """Solution using hash set, O(n)"""
+        if not nums:
+            return 0
+
+        check = set(nums)
+
+        potential_heads = []
+        for num in check:
+            if (num - 1) not in check:
+                potential_heads.append(num)
+        
+        count = 1
+        for head in potential_heads:
+            cur_count = 1
+            plus = 1
+            while (head + plus) in check:
+                cur_count += 1
+                plus += 1
+            count = max(cur_count, count)
+        count = max(cur_count, count) # in case, the given list is a consecutive sequence
+        return count
+
+
     def longest_consecutive_solution_1(self, nums: List[int]) -> int:
         """Solution using sorting, O(nlogn)"""
         if not nums:
