@@ -2,6 +2,7 @@
 
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy - Array, Set
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum

@@ -42,8 +42,12 @@
 
 ## String
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
+- [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
+
+## Two Pointers
+- [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 
 ## Union Find
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
