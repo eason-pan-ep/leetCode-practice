@@ -7,6 +7,23 @@ URL: https://leetcode.com/problems/valid-palindrome/
 """
 
 class Solution:
+    def is_palindrome_solution_2(self, s: str) -> bool:
+        """Solution using two pointers and do not use extra space"""
+        left, right = 0, len(s) - 1
+        while left < right:
+            if not s[left].isalnum():
+                left += 1
+                continue
+            if not s[right].isalnum():
+                right -= 1
+                continue
+            if s[left].lower() != s[right].lower():
+                return False
+            left += 1
+            right -= 1
+        
+        return True
+    
     def is_palindrome_solution_1(self, s: str) -> bool:
         """Solution using two pointers and string cleanup"""
         # Clean up string (remove non-letter characters and convert to all lowercase)
