@@ -1,6 +1,7 @@
 # All LeetCode Problems
 
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
