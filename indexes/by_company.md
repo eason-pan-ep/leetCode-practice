@@ -6,6 +6,7 @@
 
 ## Amazon
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
@@ -31,6 +32,7 @@
 
 ## Bloomberg
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
@@ -53,11 +55,13 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 
 ## Goldman Sachs
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
 
 ## Google
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
@@ -78,6 +82,7 @@
 
 ## Meta
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
@@ -92,6 +97,7 @@
 
 ## Microsoft
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String

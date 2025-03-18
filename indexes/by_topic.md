@@ -2,6 +2,7 @@
 
 ## Array
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium
@@ -23,6 +24,9 @@
 
 ## Design
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
+
+## Greedy
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
 
 ## Hash Table
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy
@@ -53,6 +57,7 @@
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
 
 ## Two Pointers
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
