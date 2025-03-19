@@ -8,6 +8,7 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
 
 ## Medium
+- [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Array, Two Pointers, Greedy
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Array, Two Pointers
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Array, Hash Table, Union Find
