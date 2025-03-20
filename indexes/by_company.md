@@ -8,6 +8,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -34,6 +35,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy - Array, Set
@@ -51,11 +53,15 @@
 ## Cognizant
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 
+## CrowdStrike
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
+
 ## EPAM Systems
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 
 ## Goldman Sachs
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
 
@@ -63,6 +69,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -84,6 +91,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -99,6 +107,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
@@ -127,7 +136,11 @@
 ## Paycom
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy - Array, Set
 
+## Snowflake
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
+
 ## TikTok
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 
 ## Uber
@@ -135,6 +148,9 @@
 
 ## Visa
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+
+## Zeta
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 
 ## Zoho
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
