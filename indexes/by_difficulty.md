@@ -17,3 +17,6 @@
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
 
+## Hard
+- [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
+
