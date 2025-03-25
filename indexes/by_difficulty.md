@@ -5,6 +5,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Two Pointers, String
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Array, Set
+- [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Array, Hash Table, Sliding Window
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
 
 ## Medium
