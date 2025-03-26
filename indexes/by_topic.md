@@ -15,6 +15,7 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
+- [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium
 
 ## Binary Search
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium
@@ -59,6 +60,7 @@
 
 ## Sliding Window
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
+- [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium
 
 ## Sorting
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium

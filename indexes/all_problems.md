@@ -16,3 +16,4 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium - Array, Sliding Window
