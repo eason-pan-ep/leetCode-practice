@@ -18,6 +18,7 @@ class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
+        self.used = 0
         self.head = Node(-1, -1)
         self.tail = Node(-1, -1)
         self.map = dict()  # {key, Node}
@@ -40,7 +41,7 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key not in self.map:
-            if self.capacity > 0:  # still has capacity
+            if self.used < self.capacity:  # still has capacity
                 new_node = Node(key, value)
                 self.map[key] = new_node
                 self.add_node(new_node)

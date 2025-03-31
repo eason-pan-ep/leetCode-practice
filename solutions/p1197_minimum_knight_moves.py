@@ -6,6 +6,7 @@ Companies: Amazon, Meta
 URL: https://leetcode.com/problems/minimum-knight-moves/
 """
 
+from collections import deque
 
 class Solution:
     def min_knight_moves_solution_2(self, x: int, y: int) -> int:
@@ -14,15 +15,17 @@ class Solution:
 
         visited = set()
         steps = 0
-        queue = [(0, 0)]
-
+        queue = deque()
+        queue.append((0, 0))
+        visited.add((0, 0))
+        
         # map given position to only the quadrant I
         x_check = abs(x)
         y_check = abs(y)
 
         while queue:
             for _ in range(len(queue)):
-                cur_x, cur_y = queue.pop(0)
+                cur_x, cur_y = queue.popleft()
                 if cur_x == x_check and cur_y == y_check:
                     return steps
 
@@ -46,7 +49,9 @@ class Solution:
 
         visited = set()
         steps = 0
-        queue = [(0, 0)]
+        queue = deque()
+        queue.append((0, 0))
+        visited.add((0, 0))
 
         while queue:
             for _ in range(len(queue)):
