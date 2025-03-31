@@ -22,6 +22,7 @@
 
 ## Breadth-First Search
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
+- [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium
 
 ## Bucket Sort
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
@@ -44,6 +45,7 @@
 
 ## Graph
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
+- [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium
 
 ## Greedy
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
