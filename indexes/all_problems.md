@@ -9,11 +9,14 @@
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium - Hash Table, Linked List, Design, Doubly Linked List
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium - Array, Two Pointers, Binary Search
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium - Depth-First Search, Breadth-First Search, Graph, Topological Sort
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy - Array, Set
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy - Array, Hash Table, Sliding Window
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium - Breadth-First Search, Graph
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium - Array, Sliding Window
