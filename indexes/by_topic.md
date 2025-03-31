@@ -27,7 +27,11 @@
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
 
 ## Design
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
+
+## Doubly Linked List
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 
 ## Dynamic Programming
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
@@ -39,12 +43,16 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
 
 ## Heap
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
+
+## Linked List
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 
 ## Monotonic Stack
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard

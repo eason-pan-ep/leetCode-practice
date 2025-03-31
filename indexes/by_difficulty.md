@@ -14,6 +14,7 @@
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Array, Two Pointers
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Array, Hash Table, Union Find
+- [146. Lru Cache](../solutions/p0146_lru_cache.py) - Hash Table, Linked List, Design, Doubly Linked List
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Array, Two Pointers, Binary Search
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Array, Prefix Sum
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Array, String, Design
