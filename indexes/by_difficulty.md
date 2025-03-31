@@ -18,6 +18,7 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Array, Prefix Sum
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Array, Sliding Window
 
 ## Hard
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
