@@ -45,7 +45,7 @@ class LRUCache:
                 new_node = Node(key, value)
                 self.map[key] = new_node
                 self.add_node(new_node)
-                self.capacity -= 1
+                self.used += 1
             else:  # no more capacity
                 # remove the least used node
                 removing_node = self.tail.prev

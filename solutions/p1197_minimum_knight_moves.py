@@ -55,7 +55,7 @@ class Solution:
 
         while queue:
             for _ in range(len(queue)):
-                cur_x, cur_y = queue.pop(0)
+                cur_x, cur_y = queue.popleft()
                 if cur_x == x and cur_y == y:
                     return steps
 
