@@ -11,6 +11,7 @@
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium - Hash Table, Linked List, Design, Doubly Linked List
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium - Array, Two Pointers, Binary Search
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium - Depth-First Search, Breadth-First Search, Graph, Topological Sort
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy - Array, Set
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy - Array, Hash Table, Sliding Window
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum

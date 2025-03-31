@@ -20,11 +20,17 @@
 ## Binary Search
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium
 
+## Breadth-First Search
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
+
 ## Bucket Sort
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
 
 ## Counting
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
+
+## Depth-First Search
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
 
 ## Design
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
@@ -35,6 +41,9 @@
 
 ## Dynamic Programming
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
+
+## Graph
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
 
 ## Greedy
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
@@ -82,6 +91,9 @@
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
+
+## Topological Sort
+- [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
 
 ## Two Pointers
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium
