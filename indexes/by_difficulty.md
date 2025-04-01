@@ -24,5 +24,6 @@
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Array, Sliding Window
 
 ## Hard
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 

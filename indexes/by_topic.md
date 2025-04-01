@@ -37,6 +37,9 @@
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
 
+## Divide and Conquer
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
+
 ## Doubly Linked List
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 
@@ -62,8 +65,15 @@
 ## Heap
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
 
+## Heap (Priority Queue)
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
+
 ## Linked List
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
+
+## Merge Sort
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
 
 ## Monotonic Stack
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard

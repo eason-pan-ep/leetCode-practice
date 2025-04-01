@@ -3,6 +3,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
