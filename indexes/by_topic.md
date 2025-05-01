@@ -64,6 +64,7 @@
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium
 
 ## Heap
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium
@@ -95,6 +96,7 @@
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium
 
 ## Sorting
@@ -110,6 +112,7 @@
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium
 
 ## Topological Sort
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
