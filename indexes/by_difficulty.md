@@ -9,6 +9,7 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
 
 ## Medium
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Array, Two Pointers, Sorting
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String

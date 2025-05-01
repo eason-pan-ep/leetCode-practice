@@ -57,6 +57,7 @@
 
 ## Hash Table
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
@@ -91,6 +92,7 @@
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Easy
 
 ## Sliding Window
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium
@@ -103,6 +105,7 @@
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
 
 ## String
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
