@@ -9,6 +9,7 @@
 
 ## Amazon
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
@@ -27,6 +28,7 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 - [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium - Breadth-First Search, Graph
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium - Array, Sliding Window
 
@@ -58,6 +60,13 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
+
+## Bloombert
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
+
+## ByteDance
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 
 ## Capgemini
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
@@ -95,9 +104,11 @@
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 
 ## Google
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
@@ -116,6 +127,7 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 
 ## IBM
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
@@ -126,6 +138,7 @@
 
 ## Meta
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
@@ -144,10 +157,12 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 - [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium - Breadth-First Search, Graph
 
 ## Microsoft
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
@@ -178,6 +193,7 @@
 
 ## Oracle
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
@@ -212,12 +228,19 @@
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium - Depth-First Search, Breadth-First Search, Graph, Topological Sort
 
+## Turing
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
+
 ## Uber
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 
 ## Visa
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
+
+## Walmart Labs
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 
 ## Yahoo
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting

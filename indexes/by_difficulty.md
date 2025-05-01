@@ -9,6 +9,7 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
 
 ## Medium
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Array, Two Pointers, Sorting
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
@@ -21,6 +22,7 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Array, Prefix Sum
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Hash Table, String, Sliding Window
 - [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Breadth-First Search, Graph
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Array, Sliding Window
 

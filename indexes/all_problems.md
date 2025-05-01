@@ -1,6 +1,7 @@
 # All LeetCode Problems
 
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
+- [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
@@ -20,5 +21,6 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
+- [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
 - [1197. Minimum Knight Moves](../solutions/p1197_minimum_knight_moves.py) - Medium - Breadth-First Search, Graph
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium - Array, Sliding Window
