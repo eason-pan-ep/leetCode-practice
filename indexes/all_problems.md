@@ -9,6 +9,7 @@
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
+- [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium - Hash Table, Linked List, Design, Doubly Linked List

@@ -8,6 +8,7 @@
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium
+- [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
@@ -47,6 +48,7 @@
 
 ## Dynamic Programming
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
+- [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy
 
 ## Graph
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium
@@ -94,6 +96,7 @@
 
 ## Sliding Window
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
+- [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
 - [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium
