@@ -2,6 +2,7 @@
 
 ## Easy
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Array, Hash Table
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - String, Stack
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Two Pointers, String

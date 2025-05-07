@@ -4,6 +4,7 @@
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack

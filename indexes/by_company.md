@@ -1,5 +1,8 @@
 # Problems by Company
 
+## AT&T
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
+
 ## Adobe
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
 - [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
@@ -13,6 +16,7 @@
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -53,6 +57,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -116,6 +121,7 @@
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -144,6 +150,7 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 
 ## LinkedIn
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 
 ## Lyft
@@ -153,6 +160,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -180,6 +188,7 @@
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Medium - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -212,6 +221,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
@@ -246,6 +256,7 @@
 - [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 
 ## TikTok
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium - Depth-First Search, Breadth-First Search, Graph, Topological Sort
@@ -266,6 +277,7 @@
 
 ## Walmart Labs
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy - String, Stack
 
 ## Yahoo
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
