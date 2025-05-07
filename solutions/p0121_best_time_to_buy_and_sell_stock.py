@@ -2,7 +2,6 @@
 LeetCode #121: Best Time to Buy and Sell Stock
 Difficulty: Easy
 Topics: Array, Dynamic Programming, Sliding Window
-Companies: Meta, Amazon, Google, Microsoft, Uber, Bloomberg, Apple, Visa, Zoox, Oracle
 URL: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 """
 

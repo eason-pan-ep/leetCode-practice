@@ -2,7 +2,6 @@
 LeetCode #424: Longest Repeating Character Replacement
 Difficulty: Medium
 Topics: Hash Table, String, Sliding Window
-Companies: Google, Amazon, Meta, Bloomberg, Goldman Sachs, ByteDance
 URL: https://leetcode.com/problems/longest-repeating-character-replacement/
 """
 

@@ -2,7 +2,6 @@
 LeetCode #238: Product of Array Except Self
 Difficulty: Medium
 Topics: Array, Prefix Sum
-Companies: Amazon, Google, Meta, Microsoft, Bloomberg, Uber
 URL: https://leetcode.com/problems/product-of-array-except-self/
 """
 

@@ -2,7 +2,6 @@
 LeetCode #1197: Minimum Knight Moves
 Difficulty: Medium
 Topics: Breadth-First Search, Graph
-Companies: Amazon, Meta
 URL: https://leetcode.com/problems/minimum-knight-moves/
 """
 

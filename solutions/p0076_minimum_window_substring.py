@@ -2,7 +2,6 @@
 LeetCode #76: Minimum Window Substring
 Difficulty: Hard
 Topics: Hash Table, String, Sliding Window
-Companies: Meta, Snowflake, Amazon, LinkedIn, TickTok, Lyft, Google, Microsoft, Adobe, Uber
 URL: https://leetcode.com/problems/minimum-window-substring/
 """
 

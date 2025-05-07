@@ -2,7 +2,6 @@
 LeetCode #207: Course Schedule
 Difficulty: Medium
 Topics: Depth-First Search, Breadth-First Search, Graph, Topological Sort
-Companies: Amazon, Meta, Google, TikTok, Microsoft, Oracle, Paypal, Swiggy, Cruise
 URL: https://leetcode.com/problems/course-schedule/
 """
 

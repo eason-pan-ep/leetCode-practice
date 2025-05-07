@@ -2,7 +2,6 @@
 LeetCode #20: Valid Parentheses
 Difficulty: Easy
 Topics: String, Stack
-Companies: Amazon, Meta, LinkedIn, Google, Bloomberg, AT&T, Microsoft, Oracle, Walmart Labs, TikTok
 URL: https://leetcode.com/problems/valid-parentheses/
 """
 

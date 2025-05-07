@@ -2,7 +2,6 @@
 LeetCode #42: Trapping Rain Water
 Difficulty: Hard
 Topics: Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
-Companies: Amazon, Goldman Sachs, Google, Bloomberg, Meta, Microsoft, TikTok, Zeta, Snowflake, CrowdStrike
 URL: https://leetcode.com/problems/trapping-rain-water/
 """
 

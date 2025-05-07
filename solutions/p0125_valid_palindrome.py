@@ -2,7 +2,6 @@
 LeetCode #125: Valid Palindrome
 Difficulty: Easy
 Topics: Two Pointers, String
-Companies: Meta, BCG, Apple, Amazon, Microsoft, Bloomberg, Google
 URL: https://leetcode.com/problems/valid-palindrome/
 """
 

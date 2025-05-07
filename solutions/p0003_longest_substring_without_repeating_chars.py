@@ -2,7 +2,6 @@
 LeetCode #3: Longest Substring Without Repeating Characters
 Difficulty: Medium
 Topics: Hash Table, String, Sliding Window
-Companies: Amazon, Google, Meta, Microsoft, Bloombert, Oracle, Visa, Turing, Walmart Labs
 URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 """
 

@@ -2,7 +2,6 @@
 LeetCode #167: Two Sum II - Input array is sorted
 Difficulty: Medium
 Topics: Array, Two Pointers, Binary Search
-Companies: Google, Meta, Amazon, Microsoft, Apple
 URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 """
 

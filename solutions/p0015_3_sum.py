@@ -2,7 +2,6 @@
 LeetCode #15: 3Sum
 Difficulty: Medium
 Topics: Array, Two Pointers, Sorting
-Companies: Amazon, Facebook, Google, Microsoft, Bloomberg, Adobe, Apple, Cisco, Oracle, Uber, Yahoo, Yelp
 URL: https://leetcode.com/problems/3sum/
 """
 

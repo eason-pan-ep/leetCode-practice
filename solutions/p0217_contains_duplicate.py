@@ -2,7 +2,6 @@
 LeetCode #217: Contains Duplicate
 Difficulty: Easy
 Topics: Array, Set
-Companies: Amazon, Bloomberg, Google, Meta, Microsoft, Zoho, Paycom
 URL: https://leetcode.com/problems/contains-duplicate/
 """
 

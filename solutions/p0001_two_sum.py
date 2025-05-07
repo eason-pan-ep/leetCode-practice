@@ -2,7 +2,6 @@
 LeetCode #1: Two Sum
 Difficulty: Easy
 Topics: Array, Hash Table
-Companies: Google, Amazon, Microsoft, Meta, Bloomberg, Apple, Oracle, Infosys, tcs, Visa
 URL: https://leetcode.com/problems/two-sum/
 """
 
