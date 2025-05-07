@@ -23,7 +23,6 @@ class LeetCodeIndexGenerator:
         # Data structures to hold categorized problems
         self.by_difficulty = defaultdict(list)
         self.by_topic = defaultdict(list)
-        self.by_company = defaultdict(list)
         self.problems = []
 
     def scan_solutions(self):
@@ -41,10 +40,7 @@ class LeetCodeIndexGenerator:
                 # Categorize by topic
                 for topic in metadata["topics"]:
                     self.by_topic[topic].append(metadata)
-                
-                # Categorize by company (if available)
-                for company in metadata.get("companies", []):
-                    self.by_company[company].append(metadata)
+
     
     def _extract_metadata(self, file_path):
         """Extract metadata from a solution file's docstring."""
@@ -108,8 +104,6 @@ class LeetCodeIndexGenerator:
         """Generate all index files."""
         self._generate_difficulty_index()
         self._generate_topic_index()
-        if any(self.by_company):
-            self._generate_company_index()
         self._generate_main_index()
     
     def _generate_difficulty_index(self):
@@ -160,32 +154,7 @@ class LeetCodeIndexGenerator:
                     f.write(f"- [{problem['id']}. {problem['name']}]({rel_path}) - {problem['difficulty']}\n")
                 
                 f.write("\n")
-    
-    def _generate_company_index(self):
-        """Generate index by company."""
-        with open(self.indexes_dir / "by_company.md", "w", encoding="utf-8") as f:
-            f.write("# Problems by Company\n\n")
-            
-            # Sort companies alphabetically
-            companies = sorted(self.by_company.keys())
-            
-            for company in companies:
-                f.write(f"## {company}\n")
-                
-                # Sort problems by ID
-                problems = sorted(self.by_company[company], key=lambda x: x["id"])
-                
-                for problem in problems:
-                    rel_path = os.path.relpath(problem["file_path"], self.indexes_dir)
-                    
-                    # Format: [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Hash Table, Array
-                    topics_str = ", ".join(problem["topics"]) if problem["topics"] else ""
-                    f.write(f"- [{problem['id']}. {problem['name']}]({rel_path}) - {problem['difficulty']}")
-                    if topics_str:
-                        f.write(f" - {topics_str}")
-                    f.write("\n")
-                
-                f.write("\n")
+
     
     def _generate_main_index(self):
         """Generate main index with all problems."""

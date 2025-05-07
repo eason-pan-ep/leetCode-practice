@@ -18,6 +18,7 @@
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Array, Two Pointers
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Array, Hash Table, Union Find
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Hash Table, Linked List, Design, Doubly Linked List
+- [155. Min Stack](../solutions/p0155_min_stack.py) - Stack, Design
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Array, Two Pointers, Binary Search
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Depth-First Search, Breadth-First Search, Graph, Topological Sort
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Array, Binary Search, Sliding Window, Prefix Sum
