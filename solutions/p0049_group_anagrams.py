@@ -2,7 +2,6 @@
 LeetCode #49: Group Anagrams
 Difficulty: Medium
 Topics: Array, Hash Table, String
-Companies: Amazon, Google, Meta, Microsoft, Oracle, Apple, Goldman Sachs, Nvidia, Zoho, Affirm
 URL: https://leetcode.com/problems/group-anagrams/
 """
 from typing import List

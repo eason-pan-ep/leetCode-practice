@@ -2,7 +2,6 @@
 LeetCode #146: LRU Cache
 Difficulty: Medium
 Topics: Hash Table, Linked List, Design, Doubly Linked List
-Companies: Amazon, Meta, Google, Microsoft, Apple, Bloomberg, Oracle, eBay, Palo Alto Networks, Gartner
 URL: https://leetcode.com/problems/lru-cache/
 """
 

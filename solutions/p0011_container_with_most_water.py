@@ -2,7 +2,6 @@
 LeetCode #11: Container With Most Water
 Difficulty: Medium
 Topics: Array, Two Pointers, Greedy
-Companies: Google, Amazon, Meta, Microsoft, Bloomberg, Goldman Sachs
 URL: https://leetcode.com/problems/container-with-most-water/
 """
 

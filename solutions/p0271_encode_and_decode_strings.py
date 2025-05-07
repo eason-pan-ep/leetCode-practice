@@ -2,7 +2,6 @@
 LeetCode #271: Encode and Decode Strings
 Difficulty: Medium
 Topics: Array, String, Design
-Companies: Microsoft, Google, Meta, Amazon, OpenAI
 URL: https://leetcode.com/problems/encode-and-decode-strings/
 """
 

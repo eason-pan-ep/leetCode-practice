@@ -2,7 +2,6 @@
 LeetCode #80: Remove Duplicates from Sorted Array II
 Difficulty: Medium
 Topics: Array, Two Pointers
-Companies: Google, Amazon, Meta
 URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 """
 

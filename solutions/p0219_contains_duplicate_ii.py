@@ -2,7 +2,6 @@
 LeetCode #219: Contains Duplicate II
 Difficulty: Easy
 Topics: Array, Hash Table, Sliding Window
-Companies: Meta, Google, Amazon, Microsoft, Bloomberg, tcs
 URL: https://leetcode.com/problems/contains-duplicate-ii/
 """
 

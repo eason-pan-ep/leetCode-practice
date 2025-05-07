@@ -38,6 +38,7 @@
 
 ## Design
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
+- [155. Min Stack](../solutions/p0155_min_stack.py) - Medium
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium
 
 ## Divide and Conquer
@@ -109,10 +110,13 @@
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 
 ## Stack
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
+- [155. Min Stack](../solutions/p0155_min_stack.py) - Medium
 
 ## String
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - Easy
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
 - [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy

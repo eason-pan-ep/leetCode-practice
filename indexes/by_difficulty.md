@@ -2,6 +2,7 @@
 
 ## Easy
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Array, Hash Table
+- [20. Valid Parentheses](../solutions/p0020_valid_parentheses.py) - String, Stack
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Two Pointers, String
@@ -17,6 +18,7 @@
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Array, Two Pointers
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Array, Hash Table, Union Find
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Hash Table, Linked List, Design, Doubly Linked List
+- [155. Min Stack](../solutions/p0155_min_stack.py) - Stack, Design
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Array, Two Pointers, Binary Search
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Depth-First Search, Breadth-First Search, Graph, Topological Sort
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Array, Binary Search, Sliding Window, Prefix Sum

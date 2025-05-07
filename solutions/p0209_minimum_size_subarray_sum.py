@@ -2,7 +2,6 @@
 LeetCode #209: Minimum Size Subarray Sum
 Difficulty: Medium
 Topics: Array, Binary Search, Sliding Window, Prefix Sum
-Companies: Google, DoorDash, Microsoft, Meta
 URL: https://leetcode.com/problems/minimum-size-subarray-sum/
 """
 

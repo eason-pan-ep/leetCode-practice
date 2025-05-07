@@ -2,7 +2,6 @@
 LeetCode #347: Top K Frequent Elements
 Difficulty: Medium
 Topics: Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
-Companies: Meta, Amazon, google, Microsoft, Apple, Bloomberg, Oracle, Goldman Sachs, Chewy, Microstrategy
 URL: https://leetcode.com/problems/top-k-frequent-elements/
 """
 

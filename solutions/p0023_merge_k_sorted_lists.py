@@ -2,7 +2,6 @@
 LeetCode #23: Merge k Sorted Lists
 Difficulty: Hard
 Topics: Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
-Companies: Meta, Amazon, Google, Microsoft, Oracle, Bloomberg, Salesforce, Rivian
 URL: https://leetcode.com/problems/merge-k-sorted-lists/
 """
 

@@ -2,7 +2,6 @@
 LeetCode #242: Valid Anagram
 Difficulty: Easy
 Topics: Hash Table, String, Sorting
-Companies: Google, Bloomberg, Meta, Microsoft, Amazon, Oracle, Affirm, Capgemini, Apple, Infosys, EPAM Systems, Cognizant
 URL: https://leetcode.com/problems/valid-anagram/
 """
 def isAnagram(s: str, t: str) -> bool:
