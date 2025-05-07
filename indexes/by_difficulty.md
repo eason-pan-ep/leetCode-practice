@@ -30,4 +30,5 @@
 ## Hard
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hash Table, String, Sliding Window
 
