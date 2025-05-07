@@ -61,6 +61,7 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
@@ -96,6 +97,7 @@
 
 ## Sliding Window
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Easy
@@ -112,6 +114,7 @@
 ## String
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium

@@ -2,6 +2,7 @@
 
 ## Adobe
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 
 ## Affirm
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
@@ -16,6 +17,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -118,6 +120,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -140,6 +143,12 @@
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 
+## LinkedIn
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
+
+## Lyft
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
+
 ## Meta
 - [1. Two Sum](../solutions/p0001_two_sum.py) - Easy - Array, Hash Table
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Medium - Hash Table, String, Sliding Window
@@ -148,6 +157,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
@@ -174,6 +184,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium - Array, Hash Table, Union Find
@@ -226,9 +237,13 @@
 
 ## Snowflake
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 
 ## Swiggy
 - [207. Course Schedule](../solutions/p0207_course_schedule.py) - Medium - Depth-First Search, Breadth-First Search, Graph, Topological Sort
+
+## TickTok
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 
 ## TikTok
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
@@ -240,6 +255,7 @@
 
 ## Uber
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Medium - Array, Two Pointers, Sorting
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 

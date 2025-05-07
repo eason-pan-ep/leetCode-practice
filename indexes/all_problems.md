@@ -8,6 +8,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy - Array, Two Pointers
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard - Array, Two Pointers, Stack, Dynamic Programming, Monotonic Stack
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium - Array, Hash Table, String
+- [76. Minimum Window Substring](../solutions/p0076_minimum_window_substring.py) - Hard - Hash Table, String, Sliding Window
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium - Array, Two Pointers
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy - Array, Dynamic Programming, Sliding Window
 - [125. Valid Palindrome](../solutions/p0125_valid_palindrome.py) - Easy - Two Pointers, String
