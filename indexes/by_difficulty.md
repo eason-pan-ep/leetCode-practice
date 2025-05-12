@@ -9,6 +9,7 @@
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Array, Set
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Array, Hash Table, Sliding Window
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
+- [704. Binary Search](../solutions/p0704_binary_search.py) - Array, Binary Search
 
 ## Medium
 - [3. Longest Substring Without Repeating Chars](../solutions/p0003_longest_substring_without_repeating_chars.py) - Hash Table, String, Sliding Window
