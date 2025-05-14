@@ -7,6 +7,7 @@
 - [26. Remove Duplicates From Sorted Array](../solutions/p0026_remove_duplicates_from_sorted_array.py) - Easy
 - [42. Trapping Rain Water](../solutions/p0042_trapping_rain_water.py) - Hard
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Medium
+- [74. Search A 2D Matrix](../solutions/p0074_search_a_2D_matrix.py) - Medium
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Medium
 - [121. Best Time To Buy And Sell Stock](../solutions/p0121_best_time_to_buy_and_sell_stock.py) - Easy
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Medium
@@ -21,6 +22,7 @@
 - [1343. Number Of Sub Arrays](../solutions/p1343_number_of_sub_arrays.py) - Medium
 
 ## Binary Search
+- [74. Search A 2D Matrix](../solutions/p0074_search_a_2D_matrix.py) - Medium
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
 - [704. Binary Search](../solutions/p0704_binary_search.py) - Easy
@@ -81,6 +83,9 @@
 ## Linked List
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Medium
+
+## Matrix
+- [74. Search A 2D Matrix](../solutions/p0074_search_a_2D_matrix.py) - Medium
 
 ## Merge Sort
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
