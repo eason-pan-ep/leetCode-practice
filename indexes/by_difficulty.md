@@ -16,6 +16,7 @@
 - [11. Container With Most Water](../solutions/p0011_container_with_most_water.py) - Array, Two Pointers, Greedy
 - [15. 3 Sum](../solutions/p0015_3_sum.py) - Array, Two Pointers, Sorting
 - [49. Group Anagrams](../solutions/p0049_group_anagrams.py) - Array, Hash Table, String
+- [74. Search A 2D Matrix](../solutions/p0074_search_a_2D_matrix.py) - Array, Binary Search, Matrix
 - [80. Remove Duplicates From Sorted Array Ii](../solutions/p0080_remove_duplicates_from_sorted_array_ii.py) - Array, Two Pointers
 - [128. Longest Consecutive Sequence](../solutions/p0128_longest_consecutive_sequence.py) - Array, Hash Table, Union Find
 - [146. Lru Cache](../solutions/p0146_lru_cache.py) - Hash Table, Linked List, Design, Doubly Linked List
