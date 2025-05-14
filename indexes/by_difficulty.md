@@ -9,6 +9,8 @@
 - [217. Contains Duplicate](../solutions/p0217_contains_duplicate.py) - Array, Set
 - [219. Contains Duplicate Ii](../solutions/p0219_contains_duplicate_ii.py) - Array, Hash Table, Sliding Window
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Hash Table, String, Sorting
+- [278. First Bad Version](../solutions/p0278_first_bad_version.py) - Binary Search, Interactive
+- [374. Guess Number Higher Or Lower](../solutions/p0374_guess_number_higher_or_lower.py) - Binary Search, Interactive
 - [704. Binary Search](../solutions/p0704_binary_search.py) - Array, Binary Search
 
 ## Medium
