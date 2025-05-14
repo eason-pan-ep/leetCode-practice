@@ -25,6 +25,7 @@
 - [238. Product Of Array Except Self](../solutions/p0238_product_of_array_except_self.py) - Medium - Array, Prefix Sum
 - [242. Valid Anagram](../solutions/p0242_valid_anagram.py) - Easy - Hash Table, String, Sorting
 - [271. Encode And Decode Strings](../solutions/p0271_encode_and_decode_strings.py) - Medium - Array, String, Design
+- [278. First Bad Version](../solutions/p0278_first_bad_version.py) - Easy - Binary Search, Interactive
 - [347. Top K Frequent Elements](../solutions/p0347_top_k_frequent_elements.py) - Medium - Array, Hash Table, Heap, Bucket Sort, Counting, Quickselect
 - [374. Guess Number Higher Or Lower](../solutions/p0374_guess_number_higher_or_lower.py) - Easy - Binary Search, Interactive
 - [424. Longest Repeating Char Replacement](../solutions/p0424_longest_repeating_char_replacement.py) - Medium - Hash Table, String, Sliding Window
