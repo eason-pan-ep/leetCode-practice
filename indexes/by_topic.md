@@ -25,6 +25,7 @@
 - [74. Search A 2D Matrix](../solutions/p0074_search_a_2D_matrix.py) - Medium
 - [167. Two Sum Ii Input Array Is Sorted](../solutions/p0167_two_sum_ii_input_array_is_sorted.py) - Medium
 - [209. Minimum Size Subarray Sum](../solutions/p0209_minimum_size_subarray_sum.py) - Medium
+- [374. Guess Number Higher Or Lower](../solutions/p0374_guess_number_higher_or_lower.py) - Easy
 - [704. Binary Search](../solutions/p0704_binary_search.py) - Easy
 
 ## Breadth-First Search
@@ -79,6 +80,9 @@
 
 ## Heap (Priority Queue)
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
+
+## Interactive
+- [374. Guess Number Higher Or Lower](../solutions/p0374_guess_number_higher_or_lower.py) - Easy
 
 ## Linked List
 - [23. Merge K Sorted Lists](../solutions/p0023_merge_k_sorted_lists.py) - Hard
